@@ -1,0 +1,18 @@
+{
+  "files": {
+    "carte-aux-tresors/main.js": [
+      {
+        "id": "1d1ab34e-2356-44f9-8643-45612b3ec310",
+        "line": 65,
+        "version": 25,
+        "index": 1314
+      },
+      {
+        "id": "276ba0b3-67b8-4514-9b3e-eec1d607f738",
+        "line": 66,
+        "version": 25,
+        "index": 1377
+      }
+    ]
+  }
+}

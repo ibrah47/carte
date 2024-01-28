@@ -1,0 +1,15 @@
+# Fichier d'entrée exemple
+
+# Carte
+C - 3 - 4
+
+# Montagnes
+M - 1 - 0
+M - 2 - 1
+
+# Trésors
+T - 0 - 3 - 2
+T - 1 - 3 - 1
+
+# Aventuriers
+A - Indiana - 1 - 1 - S - AADADA
