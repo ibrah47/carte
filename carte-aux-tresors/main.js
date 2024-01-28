@@ -230,3 +230,14 @@ const nomFichierSortie = "output.txt";
 const donnees = lireFichierEntree(nomFichierEntree);
 simulerMouvementsAventuriers(donnees);
 ecrireFichierSortie(nomFichierSortie, donnees);
+
+// ... (votre code existant)
+
+// Exportez les fonctions nécessaires pour les tests
+module.exports = {
+  convertirCoordonnee,
+  convertirAventuriers,
+  convertirCoordonneesTresor,
+  deplacerAventurier,
+  // ... (autres fonctions à exporter)
+};
