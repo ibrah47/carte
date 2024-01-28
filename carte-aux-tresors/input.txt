@@ -12,4 +12,4 @@ T - 0 - 3 - 2
 T - 1 - 3 - 1
 
 # Aventuriers
-A - Indiana - 1 - 1 - S - AADADA
+A - Indiana - 1 - 1 - S - A,A,D,A,D,A
